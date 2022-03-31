@@ -1,0 +1,5 @@
+PageObject\ProductsToCartPF.class
+commonUtils\UtilElement.class
+PageObject\SelectProductPF.class
+configuration\Base.class
+PageObject\LoginAuto.class

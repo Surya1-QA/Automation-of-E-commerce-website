@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner.MyTestRunner
+-------------------------------------------------------------------------------
+Tests run: 26, Failures: 3, Errors: 0, Skipped: 15, Time elapsed: 17.236 s <<< FAILURE! - in TestRunner.MyTestRunner
+To check the if End to End Flow is working as expected for a order.user is navigated to the products page  Time elapsed: 0.018 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: user is on wrong page ==> expected: <Buy Black+Decker HD555 - 13 mm, 550 W Hammer Drill Machine with Variable Speed Online at Best Prices in India> but was: <Power Drills: Buy Drill Machines Online at Best Price in India | ShakeDeal>
+
+Feature to test End to End Flow.To check the if End to End Flow is working as expected for a order  Time elapsed: 0.003 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: user is on wrong page ==> expected: <Buy Black+Decker HD555 - 13 mm, 550 W Hammer Drill Machine with Variable Speed Online at Best Prices in India> but was: <Power Drills: Buy Drill Machines Online at Best Price in India | ShakeDeal>
+
+Feature to test End to End Flow.To check the if End to End Flow is working as expected for a order  Time elapsed: 0.007 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: user is on wrong page ==> expected: <Buy Black+Decker HD555 - 13 mm, 550 W Hammer Drill Machine with Variable Speed Online at Best Prices in India> but was: <Power Drills: Buy Drill Machines Online at Best Price in India | ShakeDeal>
+
